@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 25, 2023, 7:35:45 PM
+    Author     : micha
+*/
+
+.cont-ofertas{
+    max-width: 90%;
+    min-height: 100vh;
+    margin: auto;
+}
+.titulo-of h1{
+    
+}
